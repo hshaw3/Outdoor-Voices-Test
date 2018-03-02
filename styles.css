@@ -65,6 +65,6 @@ nav{
   	display: inline;
 }
 a:link, a:visited {
-    text-decoration: none
-    color: white;
+    text-decoration: none !important;
+    color: white !important;
   }
